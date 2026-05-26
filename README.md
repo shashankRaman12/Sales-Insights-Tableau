@@ -1,6 +1,6 @@
 # Sales Insights Dashboard
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](Dashboard_screenshot.png)
 
 ## Overview
 This project is an interactive Tableau dashboard created to analyze sales performance and business KPIs.
